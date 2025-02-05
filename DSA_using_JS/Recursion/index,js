@@ -1,0 +1,17 @@
+// 1. Power of a number
+// function powerOfNumber(base,power){
+//     if(power===0){
+//         return 1
+//     }
+//     return base*powerOfNumber(base,power-1)
+// }
+// console.log(powerOfNumber(3,5))
+
+// 2. Sum of 1st n natural number
+// function sumOfNaturalNumber(num){
+//     if(num==1){
+//         return 1
+//     }
+//     return num + sumOfNaturalNumber(num-1)
+// }
+// console.log(sumOfNaturalNumber(5))
